@@ -1,5 +1,14 @@
 # Customer Order Management System (COMS)
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/Hakorimanasharif/coms?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/repo-size/Hakorimanasharif/coms?style=flat-square" alt="Repo Size">
+  <img src="https://img.shields.io/github/languages/top/Hakorimanasharif/coms?style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/Hakorimanasharif/coms?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/stars/Hakorimanasharif/coms?style=flat-square&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
+</p>
+
 Full-stack web application for DAB Enterprise Ltd to manage customer orders, payments, and generate reports.
 
 ## Prerequisites
@@ -101,4 +110,20 @@ Or create a new account from the Sign Up page.
 
 ---
 
-**Developer:** Hakorimana Sharif
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+**Developer:** [Hakorimana Sharif](https://github.com/Hakorimanasharif)
+
+<p align="center">
+  Made with ❤️ in Rwanda
+</p>
